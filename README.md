@@ -5,10 +5,11 @@ SURNAME: BİÇEN
 NUMBER: 150304032
 COURSE: Computer Aided Design
    
+---------------------------------------------------------------------------------------------------------------------------------------
    
-Here we tried to simulate mesh grid-based earth shapes in 3D. For this purpose, perlin noise is used to achieve similarity to real life.
-The difference between the previous z is the lowest altitude blue (representing the lakes), and the highest peaks are green.
-According to the previous project, the difference is slightly more similar to that of the real world. The top of the hills are white (representing the snow).
+* Here we tried to simulate mesh grid-based earth shapes in 3D. For this purpose, perlin noise is used to achieve similarity to real life.
+* The difference between the previous z is the lowest altitude blue (representing the lakes), and the highest peaks are green.
+* According to the previous project, the difference is slightly more similar to that of the real world. The top of the hills are white (representing the snow).
 
 homework_1.rb
 homework_2.rb

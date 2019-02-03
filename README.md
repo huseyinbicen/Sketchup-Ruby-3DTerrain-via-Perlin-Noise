@@ -31,9 +31,9 @@ Code Structure
 * off = a constant multiplier for the noise function
 * dizi = array with random values
 
-** myMap = It is the method that draws values in a given range to the range we want.
-** mySetup = It is the method that fills the array.
-** myDraw = The method showing the drawing on the screen.
+* myMap = It is the method that draws values in a given range to the range we want.
+* mySetup = It is the method that fills the array.
+* myDraw = The method showing the drawing on the screen.
 
 
 NOTE: I used a library to create the Perlin Noise array.
